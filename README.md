@@ -111,26 +111,26 @@ To complete, move the cursor and click ok.
 ![image](https://github.com/harsha804/VLSI-LAB-EXP-6/assets/122807039/678ce2d8-a562-4d0b-9713-95d42cc742f5)
 ![image](https://github.com/harsha804/VLSI-LAB-EXP-6/assets/122807039/a41087a5-cb65-4380-b2ee-419490c5db15)
 
-# CMOS NAND GATE
+**CMOS NAND GATE**
 
-# NAND SCHEMATIC
+**NAND SCHEMATIC**
 ![image](https://github.com/harsha804/VLSI-LAB-EXP-6/assets/122807039/595675be-866c-4f6a-8f56-9901082eda66)
 
-# NAND TEST CELL VIEW
+**NAND TEST CELL VIEW**
 ![image](https://github.com/harsha804/VLSI-LAB-EXP-6/assets/122807039/d0f48f95-562d-45e7-bcc8-92990410a911)
 
-# NAND SIMULATION WITH SPECTRA
+**NAND SIMULATION WITH SPECTRA**
 ![image](https://github.com/harsha804/VLSI-LAB-EXP-6/assets/122807039/8452b86e-83e5-4f7d-964c-1cfefe072c87)
 
-# CMOS NOR GATE NOR SCHEMATIC
+**CMOS NOR GATE NOR SCHEMATIC**
 ![image](https://github.com/harsha804/VLSI-LAB-EXP-6/assets/122807039/8f5c7cb6-7dfb-4bd8-80d2-948870538680)
 
-# NOR TEST CELL VIEW
+**NOR TEST CELL VIEW**
 ![image](https://github.com/harsha804/VLSI-LAB-EXP-6/assets/122807039/a7fe538f-3ee7-4cfa-8bd8-a03afc7bf302)
 
-# NOR SIMULATION WITH SPECTRA
-![image](https://github.com/harsha804/VLSI-LAB-EXP-6/assets/122807039/2cc0b1ab-bcc2-453e-a8f0-c47f0fe942a4)
+**NOR SIMULATION WITH SPECTRA**
+![image](https://github.com/harsha804/VLSI-LAB-EXP-6/assets/122807039/2cc0b1ab-bcc2-453e-a8f0-c47fV0fe942a4)
 
-# RESULT:
+**RESULT:**
 Thus the design and simulation the CMOS inverter and observe the DC and transient responses using cadence tool is verified successfully.
 
